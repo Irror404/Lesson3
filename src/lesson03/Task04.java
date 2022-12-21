@@ -7,7 +7,7 @@ public class Task04 {
         Scanner in = new Scanner(System.in);
         System.out.print("Введите число: ");
         day = Integer.parseInt(in.nextLine());
-        switch(day) {
+        switch (day) {
             case 1:
             case 2:
             case 3:

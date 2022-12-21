@@ -27,6 +27,7 @@ public class Task01 {
                 break;
             default:
                 System.out.println("Для введенной цифры нету дня");
+                break;
         }
     }
 }

@@ -40,7 +40,7 @@ public class Task04 {
                 System.out.println("Добрый вечер!");
                 break;
             default:
-                System.out.println("Для введенной цифры нету дня!");
+                System.out.println("Введено некорректное число!");
                 break;
         }
     }

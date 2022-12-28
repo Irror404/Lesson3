@@ -3,10 +3,7 @@ import java.util.Scanner;
 
 public class Task04 {
     public static void main(String[] args) {
-        int day;
-        Scanner in = new Scanner(System.in);
-        System.out.print("Введите число: ");
-        day = Integer.parseInt(in.nextLine());
+        int day = 18;
         switch (day) {
             case 1:
             case 2:

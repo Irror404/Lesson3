@@ -3,10 +3,7 @@ import java.util.Scanner;
 
 public class Task03 {
     public static void main(String[] args) {
-        int n;
-        Scanner in = new Scanner(System.in);
-        System.out.println("Введите число:" );
-        n = Integer.parseInt(in.nextLine());
+        int n = 10;
         if (n >= 6 && n <= 12) {
             System.out.println("Доброе утро!");
         } else if (n >= 13 && n <= 18) {
